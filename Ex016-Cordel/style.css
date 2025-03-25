@@ -1,0 +1,59 @@
+@charset "UTF-8";
+body{
+    font-family: cursive;
+    margin: 0px;
+}
+header{
+    display: block;
+    background-color: black;
+    color: white;
+    font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+    padding: 40px;
+    text-align: center;
+    h1{
+        padding-bottom: 0px;
+        margin-bottom: 3px;
+        font-weight: bolder;
+        font-size: 3em;
+
+    }
+    p{
+        margin-top: 3px;
+        font-size: 14px;
+        font-weight: lighter;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
+main{
+    p{
+        width: 180px;
+        margin-left: 17px;
+        margin-top: 80px;
+        font-weight: bold;
+    }
+}
+section{
+    display: flex;
+    height: 400px;
+    background-position: right center;
+    padding: 17px 500px auto 50px;
+}
+#section1{
+    background-image: url(pacote-d012/imagens/background001.jpg);
+
+}
+#section2{
+    background-image: url(pacote-d012/imagens/background002.jpg);
+}
+article{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 200px;
+    justify-content: left;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.767);
+    color: white;
+}

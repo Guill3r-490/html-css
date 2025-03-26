@@ -14,6 +14,7 @@ header{
     h1{
         padding-top: 50px;
         font-variant: small-caps;
+        font-size: 10vh;
     }
     p{
         padding-bottom: 50px;
@@ -26,6 +27,7 @@ header{
 }
 main{
     section{
+        font-size: 5vh;
         padding-top: 10vh;
         padding-bottom: 10vh;
         padding-left: 30px;
@@ -36,6 +38,8 @@ main{
         color: black;
     }
     section.imagem{
+        display: inline-block;
+        padding: 5px;
         background-color: rgb(51, 51, 51);
         p{
             width: 400px;

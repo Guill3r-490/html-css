@@ -38,22 +38,32 @@ main{
 section{
     display: flex;
     height: 400px;
-    background-position: right center;
     padding: 17px 500px auto 50px;
+    p{
+       text-shadow: 1px rgba(0, 0, 0, 0.348); 
+    }
+    background-attachment: fixed;
 }
 #section1{
     background-image: url(pacote-d012/imagens/background001.jpg);
-
+    background-position: right center;
+    background-size: cover;
 }
 #section2{
     background-image: url(pacote-d012/imagens/background002.jpg);
+    background-position: right center;
+    background-size: cover;
 }
 article{
-    margin-top: 50px;
-    margin-bottom: 50px;
+    display: inline-block;
+    margin: 30px;
+    height: 300px;
     width: 200px;
     justify-content: left;
     align-items: center;
     background-color: rgba(0, 0, 0, 0.767);
     color: white;
+    p{
+        margin-top: 25%;
+    }
 }

@@ -1,6 +1,6 @@
 # html-css
- Curso de html5 e css3 <br>
- Desafios:<br>
+ Curso de html5 e css3
+ Desafios:
  <a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-001" target="_blank">Desafio-001</a>
  <a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-002" target="_blank">Desafio-002</a>
  <a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-003" target="_blank">Desafio-003</a>
@@ -28,3 +28,4 @@ Exercicios:
 <a href="https://guill3r-490.github.io/html-css/Ex014-Caixas/" target="_blank">Exercicio-014</a>
 <a herf="https://guill3r-490.github.io/html-css/Ex015-Imagens de fundo/" target="_blank">
 <a href="https://guill3r-490.github.io/html-css/Ex016-Cordel/" target="_blank">
+<a href="https://guill3r-490.github.io/html-css/Ex017-Tabelas" target="_blank">

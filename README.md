@@ -10,7 +10,10 @@
  <a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-007" target="_blank">Desafio-007</a>
  <a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-008" target="_blank">Desafio-008</a>
  <a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-009" target="_blank">Desafio-009</a>
-<a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-010/android.html" target="_blank">Desafio-010</a> 
+<a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-010/android.html" target="_blank">Desafio-010</a>
+<a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-011/" target="_blank">Desafio-011</a>
+<a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-012/" target="_blank">Desafio-012</a> 
+
 Exercicios:
 <a href="https://guill3r-490.github.io/html-css/Ex001-Começo/" target="_blank">Exercicio-001</a>
 <a href="https://guill3r-490.github.io/html-css/Ex002-Paragrafos/" target="_blank">Exercicio-002</a>

@@ -29,3 +29,4 @@ Exercicios:
 <a herf="https://guill3r-490.github.io/html-css/Ex015-Imagens de fundo/" target="_blank">
 <a href="https://guill3r-490.github.io/html-css/Ex016-Cordel/" target="_blank">
 <a href="https://guill3r-490.github.io/html-css/Ex017-Tabelas" target="_blank">
+<a href="https://guill3r-490.github.io/html-css/Ex017-Tabelas/tabelas" target="_blank">

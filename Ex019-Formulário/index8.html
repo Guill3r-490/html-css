@@ -6,6 +6,25 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Teste de formulário</h1>
+    <form action="cadastro.php" method="post">
+        <p>
+            <label for="in1">Número</label>
+            <input type="number" name="n1" id="in1" min="0" max="50" required oninput="isoma. innerHTML= Number(in1.value)+Number(in2.value)">
+        </p>
+        <p>
+            <label for="in2">Número 2</label>
+            <input type="number" name="in2" id="in2" min="0" max="50" required oninput="isoma. innerHTML= Number(in1.value)+Number(in2.value)">
+        </p>
+        <p>
+            <label for="isoma">Soma</label>
+            <output name="soma" id="isoma">0</output>
+            <!--output apenas mostra coisa na tela, mas não envia nada-->
+        </p>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
 </body>
 </html>

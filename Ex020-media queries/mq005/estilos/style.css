@@ -3,15 +3,30 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body, html{
-    background-color: lightgray;
+    background-color: rgb(163, 163, 163);
+    margin: 0;
+    padding: 0;
 }
 header >h1{
     padding: 10px;
     text-align: center;
 }
+svg{
+    color: white;
+    background-color: rgb(48,48,48);
+    margin: auto;
+    width: 100vw;
+    display: block;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    cursor: pointer;
+}
+svg:hover{
+    background-color: rgb(101, 101, 101);
+}
 menu{
     padding: 0;
-    display: block;
+    display: none;
     ul{
     list-style-type: none;
     padding: 0px;

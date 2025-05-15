@@ -15,7 +15,7 @@ svg{
     color: white;
     background-color: rgb(48,48,48);
     margin: auto;
-    width: 100vw;
+    width: 97vw;
     display: block;
     text-align: center;
     padding: 10px 0 10px 0;
@@ -46,7 +46,7 @@ a:hover{
     background-color: gray;
 }
 main{
-    width: 90vw;
+    width: 80vw;
     background-color: white;
     margin: auto;
     margin-top: 10px;

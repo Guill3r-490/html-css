@@ -1,20 +1,20 @@
 @charset "UTF-8";
 @media screen and (min-width:768px) and (max-width:992px) {/*tablet*/
     body{
-        height: 100vh;
         background-image: linear-gradient(#5f2c82, #49a09d)
     }
-    section#login{
-        width: 80vw;
-        article#imagem{
-            float: left;
-            width: 30%;
-            height: 100%;
-        }
-        article#formulario{
-            float: right;
-            width: 70%;
-        }
+    section#login {
+    width: 80vw;
+  }
+    section#login > article#imagem{
+        float: left;
+        width: 30%;
+        height: 100%;
+    }
+    section#login > article#formulario{
+        float: right;
+        width: 70%;
+        
     }
 }
 @media screen and (min-width:992px) {/*desktop e telas grande*/
@@ -32,6 +32,9 @@
     article#formulario{
         float: right;
         width: 50%;
+        p{
+            font-size: 1.2em;
+        }
     }
     }
 }

@@ -16,6 +16,17 @@
         width: 70%;
         
     }
+    .campo > input{
+        width: 90%;
+    }
+    a > div{
+    position: absolute;
+    display: inline;
+    margin-bottom: 2px;
+    transform: translateY(-2px);
+    top: 25%;
+    left: 35%;
+}
 }
 @media screen and (min-width:992px) {/*desktop e telas grande*/
     body{
@@ -37,4 +48,15 @@
         }
     }
     }
+    .campo > input{
+        width: 90%;
+    }
+    a > div{
+    position: absolute;
+    display: inline;
+    margin-bottom: 2px;
+    transform: translateY(-2px);
+    top: 25%;
+    left: 33%;
+}
 }

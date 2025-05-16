@@ -13,6 +13,8 @@
 <a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-010/android.html" target="_blank">Desafio-010</a>
 <a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-011/" target="_blank">Desafio-011</a>
 <a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-012/" target="_blank">Desafio-012</a> 
+<a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-013/" target="_blank">Desafio-013</a>
+<a href= "https://guill3r-490.github.io/html-css/Desafios/Desafio-014/" target="_blank">Desafio-014</a>
 
 Exercicios:
 <a href="https://guill3r-490.github.io/html-css/Ex001-Começo/" target="_blank">Exercicio-001</a>
@@ -33,3 +35,6 @@ Exercicios:
 <a href="https://guill3r-490.github.io/html-css/Ex016-Cordel/" target="_blank">
 <a href="https://guill3r-490.github.io/html-css/Ex017-Tabelas" target="_blank">
 <a href="https://guill3r-490.github.io/html-css/Ex017-Tabelas/tabelas" target="_blank">
+<a href="https://guill3r-490.github.io/html-css/Ex018-iframe/" target="_blank">
+<a href="https://guill3r-490.github.io/html-css/Ex019-Formulário/" target="_blank">
+<a href="https://guill3r-490.github.io/html-css/Ex020-media queries/mq001/" target="_blank">

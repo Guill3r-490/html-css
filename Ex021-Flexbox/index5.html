@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Order/</title>
+    <title>Order/Align-self</title>
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
@@ -11,18 +11,42 @@
         div.container{
             display: flex;
             flex-flow: row wrap;
+            width: 500px;
+            height: 250px;
+            background-color: lightgreen;
+            justify-self: center;
         }
         div.item{
-            
+            border: 1px solid black;
+            text-align: center;
+            background-color: lightsalmon;
+            width: 40px;
+        }
+        div#a{
+            align-self: flex-start;
+            order: 4;
+        }
+        div#b{
+            align-self: flex-end;
+        }
+        div#c{
+            align-self: center;
+        }
+        div#d{
+            order: -1;
+            align-self: auto;
+        }
+        div#e{
+            align-self: stretch;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="item"></div>
-        <div class="item"></div>
-        <div class="item"></div>
-        <div class="item"></div>
+        <div class="item" id="a">A</div>
+        <div class="item" id="b">B</div>
+        <div class="item" id="c">C</div>
+        <div class="item" id="d">D</div>
     </div>
 </body>
 </html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex</title>
+    <style>
+        body{
+            font-family:Arial, Helvetica, sans-serif ;
+            background-color: cornsilk;
+        }
+        div.container{
+            background-color: rgb(28, 124, 57);
+            display: flex;
+            flex-flow: row nowrap;
+            height: 60px;
+            border-radius: 3px;
+            align-items: center;
+            justify-content: center;
+        }
+        div.item{
+            background-color: lightskyblue;
+            border: 1px solid black;
+            text-align: center;
+            align-self: center;
+            align-items: center;
+            height: 40px;
+            width: 40px;
+            margin: 2px;
+            border-radius: 3px;
+        }
+        div#a{
+            flex: 3;
+        }
+        div#b{
+            flex:none;
+        }
+        div#c{
+            flex:auto;
+        }
+        /* Ordem do short = flex-grow, flex-shrink, flex-basis*/
+        /*flex: initial = flex: 0 1 auto <- valor inicial de todas propriedades*/
+        /*flex: none = flex: 0 0 auto <- valor pra total rigidez do item*/
+        /*flex: auto = flex: 1 1 auto <- valor pra item mais flexivel possivel*/
+        /*flex: 3 = flex: 3 1 auto*/
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="item" id="a">A</div>
+        <div class="item" id="b">B</div>
+        <div class="item" id="c">C</div>
+    </div>
+</body>
+</html>-

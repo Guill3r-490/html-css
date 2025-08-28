@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>grow/shrink</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        div.container{
+            background-color: aquamarine;
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: space-evenly;
+            align-items: center;
+        }
+        div.item{
+            color: rgb(250, 206, 453);
+            text-align: center;
+            background-color: blue;
+            border: 1px solid black;
+            flex-basis: 190px;
+            flex-shrink: 1;
+            flex-grow: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+        <div class="item">D</div>
+    </div>
+</body>
+</html>
